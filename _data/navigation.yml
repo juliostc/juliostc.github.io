@@ -1,0 +1,12 @@
+# Site navigation links
+
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Everything I made that I'm proud enough to show you"
+  image:
+  
+- title: About Me
+  url: /aboutme/
+  excerpt: "More info about me, including my complete resumé"
+  
+  
